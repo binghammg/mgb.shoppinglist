@@ -1,0 +1,5 @@
+C:\dev\mgb.shoppinglist\mgb.shoppinglist.core\bin\Debug\mgb.shoppinglist.core.dll
+C:\dev\mgb.shoppinglist\mgb.shoppinglist.core\bin\Debug\mgb.shoppinglist.core.pdb
+C:\dev\mgb.shoppinglist\mgb.shoppinglist.core\obj\Debug\mgb.shoppinglist.core.csprojResolveAssemblyReference.cache
+C:\dev\mgb.shoppinglist\mgb.shoppinglist.core\obj\Debug\mgb.shoppinglist.core.dll
+C:\dev\mgb.shoppinglist\mgb.shoppinglist.core\obj\Debug\mgb.shoppinglist.core.pdb
