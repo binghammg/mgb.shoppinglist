@@ -3,3 +3,17 @@ C:\dev\mgb.shoppinglist\mgb.shoppinglist.core\bin\Debug\mgb.shoppinglist.core.pd
 C:\dev\mgb.shoppinglist\mgb.shoppinglist.core\obj\Debug\mgb.shoppinglist.core.csprojResolveAssemblyReference.cache
 C:\dev\mgb.shoppinglist\mgb.shoppinglist.core\obj\Debug\mgb.shoppinglist.core.dll
 C:\dev\mgb.shoppinglist\mgb.shoppinglist.core\obj\Debug\mgb.shoppinglist.core.pdb
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\bin\Debug\mgb.shoppinglist.core.dll
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\bin\Debug\mgb.shoppinglist.core.pdb
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\obj\Debug\mgb.shoppinglist.core.csprojResolveAssemblyReference.cache
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\obj\Debug\mgb.shoppinglist.core.dll
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\obj\Debug\mgb.shoppinglist.core.pdb
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\bin\Debug\SQLite.Net.dll
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\bin\Debug\Xamarin.Forms.Core.dll
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\bin\Debug\Xamarin.Forms.Platform.dll
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\bin\Debug\Xamarin.Forms.Core.pdb
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\bin\Debug\Xamarin.Forms.Core.xml
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\dev\mgb.shoppinglist\src\mgb.shoppinglist.core\bin\Debug\Xamarin.Forms.Xaml.xml
